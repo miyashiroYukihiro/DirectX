@@ -1,0 +1,33 @@
+﻿  DirectX11.cpp
+c:\users\nhs90081\desktop\directxproject\directxproject\system\directx11.cpp(69): warning C4244: '=': 'const float' から 'UINT' への変換です。データが失われる可能性があります。
+c:\users\nhs90081\desktop\directxproject\directxproject\system\directx11.cpp(70): warning C4244: '=': 'const float' から 'UINT' への変換です。データが失われる可能性があります。
+c:\users\nhs90081\desktop\directxproject\directxproject\system\directx11.cpp(157): warning C4244: '=': 'const float' から 'UINT' への変換です。データが失われる可能性があります。
+c:\users\nhs90081\desktop\directxproject\directxproject\system\directx11.cpp(158): warning C4244: '=': 'const float' から 'UINT' への変換です。データが失われる可能性があります。
+c:\users\nhs90081\desktop\directxproject\directxproject\system\directx11.cpp(644): warning C4101: 'hr': ローカル変数は 1 度も使われていません。
+c:\users\nhs90081\desktop\directxproject\directxproject\system\directx11.cpp(653): warning C4101: 'hr': ローカル変数は 1 度も使われていません。
+c:\users\nhs90081\desktop\directxproject\directxproject\system\directx11.cpp(663): warning C4101: 'hr': ローカル変数は 1 度も使われていません。
+c:\users\nhs90081\desktop\directxproject\directxproject\system\directx11.cpp(670): warning C4101: 'hr': ローカル変数は 1 度も使われていません。
+  InputLayout.cpp
+  PixelShader.cpp
+c:\users\nhs90081\desktop\directxproject\directxproject\system\pixelshader.cpp(24): warning C4101: 'pDevice': ローカル変数は 1 度も使われていません。
+  Shader.cpp
+c:\users\nhs90081\desktop\directxproject\directxproject\system\shader.cpp(28): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 'fopen' の宣言を確認してください
+  VertexShader.cpp
+  WinMain.cpp
+c:\users\nhs90081\desktop\directxproject\directxproject\winmain.cpp(60): warning C4838: 'const float' から 'LONG' への変換には縮小変換が必要です
+c:\users\nhs90081\desktop\directxproject\directxproject\winmain.cpp(58): warning C4244: '初期化中': 'const float' から 'LONG' への変換です。データが失われる可能性があります。
+c:\users\nhs90081\desktop\directxproject\directxproject\winmain.cpp(59): warning C4244: '初期化中': 'const float' から 'LONG' への変換です。データが失われる可能性があります。
+c:\users\nhs90081\desktop\directxproject\directxproject\winmain.cpp(148): warning C4244: 'return': 'WPARAM' から 'int' への変換です。データが失われる可能性があります。
+  コードを生成中...
+c:\users\nhs90081\desktop\directxproject\directxproject\system\vertexshader.cpp(78): warning C4700: 初期化されていないローカル変数 'pContext' が使用されます
+c:\users\nhs90081\desktop\directxproject\directxproject\system\vertexshader.cpp(88): warning C4700: 初期化されていないローカル変数 'pDevice' が使用されます
+c:\users\nhs90081\desktop\directxproject\directxproject\system\vertexshader.cpp(64): warning C4700: 初期化されていないローカル変数 'pDevice' が使用されます
+c:\users\nhs90081\desktop\directxproject\directxproject\system\shader.cpp(200): warning C4700: 初期化されていないローカル変数 'pDevice' が使用されます
+c:\users\nhs90081\desktop\directxproject\directxproject\system\shader.cpp(209): warning C4700: 初期化されていないローカル変数 'pContext' が使用されます
+c:\users\nhs90081\desktop\directxproject\directxproject\system\shader.cpp(227): warning C4700: 初期化されていないローカル変数 'pContext' が使用されます
+c:\users\nhs90081\desktop\directxproject\directxproject\system\pixelshader.cpp(50): warning C4700: 初期化されていないローカル変数 'pContext' が使用されます
+c:\users\nhs90081\desktop\directxproject\directxproject\system\pixelshader.cpp(59): warning C4700: 初期化されていないローカル変数 'pDevice' が使用されます
+c:\users\nhs90081\desktop\directxproject\directxproject\system\inputlayout.cpp(59): warning C4700: 初期化されていないローカル変数 'pContext' が使用されます
+c:\users\nhs90081\desktop\directxproject\directxproject\system\inputlayout.cpp(45): warning C4700: 初期化されていないローカル変数 'pDevice' が使用されます
+  DirectXProject.vcxproj -> C:\Users\nhs90081\Desktop\DirectXProject\x64\Debug\DirectXProject.exe
